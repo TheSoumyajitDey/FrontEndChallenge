@@ -1,27 +1,16 @@
 # FrontEndChallenge
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This Project Has Been created By Angular9 Framework 
 
-## Development server
+ScreenShots of the Project:
+- https://user-images.githubusercontent.com/55289316/94149928-2525b880-fe96-11ea-8a97-ff19e92e8293.png (Wesite View)
+- https://user-images.githubusercontent.com/55289316/94149944-2a830300-fe96-11ea-9a6f-554bcdab0be5.png (Mobile View)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Technologies Used are:
+-AngluarJS Framework
+-HTML
+-SCSS
+-TypeScript
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
