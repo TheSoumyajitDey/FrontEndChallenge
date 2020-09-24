@@ -1,0 +1,83 @@
+<div class="container-fluid contact-form roundborder">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="row"></div>
+    </div>
+    <div class="col-md-4">
+      <div class="row">
+        <h4 class="textmodi lead">SIGN UP</h4>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="row"></div>
+    </div>
+  </div>
+
+  <div class="card bg-light">
+    <h2 class="card-title mt-3 text-center">Create Your Account</h2>
+    <p class="text-center lead">Sign up with Google or Facebook</p>
+
+    <div class="row" style="margin-top: 4%">
+      <div class="col-md-6">
+        <a href="" class="btn btn-block btn-google center"
+          ><i class="fa fa-google"></i> Sign Up with Google</a
+        >
+      </div>
+
+      <div class="col-md-6">
+        <a href="" class="btn btn-block btn-facebook" (click)="submitLogin()">
+          <i class="fa fa-facebook-square"></i> Sign up with Facebook</a
+        >
+      </div>
+    </div>
+    <p class="divider-text">
+      <span class="bg-dark">OR</span>
+    </p>
+    <form>
+      <p class="text-center lead">Sign up with your Credentials</p>
+
+      <div class="form-group">
+        <label>First Name </label>
+        <input
+          type="email"
+          class="form-control change"
+          id="exampleInputEmail1"
+          aria-describedby="emailHelp"
+          placeholder="Enter First Name"
+        />
+      </div>
+
+      <div class="form-group">
+        <label>Last Name</label>
+        <input
+          type="email"
+          class="form-control"
+          placeholder="Enter Last Name"
+        />
+      </div>
+
+      <div class="form-group">
+        <label>Email address</label>
+        <input type="email" class="form-control" placeholder="Enter email" />
+      </div>
+
+      <div class="form-group" style="margin-bottom: 50px">
+        <label for="">Password</label>
+        <input
+          type="password"
+          class="form-control"
+          placeholder="Enter Password"
+        />
+      </div>
+      <p class="text-center h5">
+        By Clicking Sign Up you agree to our <a href="">Terms of Use </a> and
+        our <a href="">Privacy Policy</a>
+      </p>
+
+      <div class="form-group">
+        <button type="submit" class="btn btn-success btn-block">Sign Up</button>
+      </div>
+      <p class="text-center lead">Have an account? <a href="">Log In</a></p>
+    </form>
+  </div>
+</div>
