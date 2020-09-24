@@ -1,7 +1,7 @@
 # FrontEndChallenge By Bobble.AI 
 
-This Project Has Been created By Angular9 Framework 
-Project Made to Accompany Company Logo "Bobble.ai" logo
+- This Project Has Been created By Angular9 Framework 
+
 
 ScreenShots of the Project:
 - https://user-images.githubusercontent.com/55289316/94149928-2525b880-fe96-11ea-8a97-ff19e92e8293.png (Wesite View)
